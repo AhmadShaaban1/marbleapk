@@ -1,0 +1,6 @@
+{
+  "appId": "com.marble.erp",
+  "appName": "إدارة الرخام والجرانيت",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
